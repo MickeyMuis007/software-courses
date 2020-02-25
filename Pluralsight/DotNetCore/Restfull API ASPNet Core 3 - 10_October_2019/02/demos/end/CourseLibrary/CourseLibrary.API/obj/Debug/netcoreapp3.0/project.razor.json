@@ -1,0 +1,19 @@
+{
+  "FilePath": "/home/michael/Dev/Research/software-courses/software-courses/Pluralsight/DotNetCore/Restfull API ASPNet Core 3 - 10_October_2019/02/demos/end/CourseLibrary/CourseLibrary.API/CourseLibrary.API.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "CourseLibrary.API",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
